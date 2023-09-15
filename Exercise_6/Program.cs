@@ -1,8 +1,8 @@
-﻿//Exercise 5 
+﻿//Exercise 6
 
-class Salary
+public class Salary
 {
-    static void Main() {
+    public static void MainSalary() {
 
     Console.WriteLine("Ingrese su salario anual ");
     double salary = double.Parse(Console.ReadLine());

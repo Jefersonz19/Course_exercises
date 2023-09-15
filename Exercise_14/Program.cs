@@ -1,8 +1,8 @@
 ﻿// Exercise 14
 
-class Factorial
+public class Factorial
 {
-    static void Main() {
+    public static void MainFactorial() {
 
     Console.WriteLine("Ingrese un número: ");
     int num = Convert.ToInt32(Console.ReadLine());

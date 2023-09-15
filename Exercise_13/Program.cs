@@ -1,8 +1,8 @@
 ﻿// Exercise 13
 
-class VowelCounter
+public class VowelCounter
 {
-    static void Main() {
+    public static void MainVowelCounter() {
 
     Console.WriteLine("Ingrese una palabra: ");
     string word  = Console.ReadLine();
@@ -23,7 +23,7 @@ class VowelCounter
         } return cont;
     }
 
-      static bool IsVowel(char leter){
+    static bool IsVowel(char leter){
           return "aeiou".Contains(leter);
        }
 

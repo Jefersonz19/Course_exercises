@@ -1,6 +1,7 @@
-﻿class Fractions
+﻿// Exercise 9
+public class Fractions
 {
-    static void Main()
+    public static void MainFractions()
     {
 
         Console.WriteLine("Ingrese la primera fraccion(en formato a/b): ");

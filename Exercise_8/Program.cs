@@ -1,6 +1,7 @@
-﻿class Sum_Evens
+﻿// Exercise 8
+public class Sum_Evens
 {
-    static void Main() {
+    public static void MainSum_Evens() {
 
     int sum=0;
 

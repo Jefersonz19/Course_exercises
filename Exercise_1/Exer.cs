@@ -1,8 +1,9 @@
 ﻿//Exercise 1
-class Program
-{
+using System;
 
-    static void Main()
+class Power
+{
+    public static void MainPower()
     {
 
         Console.WriteLine("Ingrese un número ");

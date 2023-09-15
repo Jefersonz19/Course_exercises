@@ -1,7 +1,7 @@
 ﻿//Exercise 11
-class StringLenght
+public class Average
 {
-    static void Main() {
+    public static void MainAverage() {
 
     int n;
     double sum =0;

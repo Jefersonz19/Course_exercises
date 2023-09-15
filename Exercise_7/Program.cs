@@ -1,7 +1,7 @@
-﻿
-class Remainder {
+﻿// Exercise 7
+public class Remainder {
     
-    static void Main() {
+    public static void MainRemainder() {
 
     Console.WriteLine("Ingrese el primer numero ");
     double n = double.Parse(Console.ReadLine());

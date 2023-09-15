@@ -1,7 +1,7 @@
 ﻿//Exercise 10
-class StringLenght
+public class StringLength
 {
-    static void Main() {
+    public static void MainStringLength() {
 
     Console.WriteLine("Ingrese una palabra ");
     string word = Console.ReadLine();

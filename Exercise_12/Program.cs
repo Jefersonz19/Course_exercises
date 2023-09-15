@@ -1,8 +1,8 @@
 ﻿//Exercise 12
-class Smallest
+public class Smallest
 
 {
-    static void Main() {
+    public static void MainSmallest() {
  
     int n=5;
     int [] numbers = new int [n];
@@ -19,7 +19,7 @@ class Smallest
 
 }
 
-static int Findnumber(int [] numbers){
+public static int Findnumber(int [] numbers){
     int min = numbers[0];
 
     for (int i=0; i<numbers.Length; i++){

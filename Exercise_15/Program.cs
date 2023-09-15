@@ -1,8 +1,8 @@
 ﻿// Exercise 15
 
-class InRange
+public class InRange
 {
-    static void Main() {
+    public static void MainInRange() {
 
     Console.WriteLine("Ingrese un numero: ");
     double number = double.Parse(Console.ReadLine());

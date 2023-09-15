@@ -1,8 +1,8 @@
 ﻿//Exercise 5 
 
-class Week
+public class WeekDay
 {
-    static void Main() {
+    public static void MainWeekDay() {
 
     int n;
     do {
